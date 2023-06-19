@@ -37,5 +37,5 @@ Email: vanyapetrunin88@gmail.com
 <a href='mailto:vanyapetrunin88@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
 </a>
 
-<a href='https://www.instagram.com/xvanichx/?hl=en' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+<a href='https://www.instagram.com/xvanichx/?hl=en' target="_blank"><img alt='Linkedin' src='https://uploads-ssl.webflow.com/63d6abf882135c5ce696b242/63fc0de5e3c4985b9025fe3d_63f61cf4d8050751ed97e13d_Untitled%2520design.jpeg)https://uploads-ssl.webflow.com/63d6abf882135c5ce696b242/63fc0de5e3c4985b9025fe3d_63f61cf4d8050751ed97e13d_Untitled%2520design.jpeg'/></a>
 </a>
