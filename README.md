@@ -4,7 +4,7 @@
 
 ## ▪️ Github stats 📊
 
-![gemartin GitHub stats](https://github-readme-stats.vercel.app/api?username=gemartin99&show_icons=true&theme=github_dark)
+![vanichx GitHub stats](https://github-readme-stats.vercel.app/api?username=vanichx&show_icons=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemartin99&layout=compact&theme=github_dark)
 
