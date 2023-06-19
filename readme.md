@@ -4,6 +4,7 @@
 [![ipetruni's 42 stats](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/stats?cursusId=21&coalitionId=355)](https://github.com/JaeSeoKim/badge42)
 
 ## ▪️ My Current progress at [42 Wolfsburg](https://42wolfsburg.de)
+## <a  target="ft_printf">*Born2BeRoot*    </a></a>[![ipetruni's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/project/3116303)](https://github.com/JaeSeoKim/badge42)
 ## <a href='https://github.com/vanichx/ft_printf' target="ft_printf">*ft_printf*    </a></a>[![ipetruni's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/project/3105814)](https://github.com/JaeSeoKim/badge42)
 ## <a href='https://github.com/vanichx/GetNextLine' target="GetNextLine">*GetNextLine*    </a></a>[![ipetruni's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/project/3105814)](https://github.com/JaeSeoKim/badge42)
 ## <a href='https://github.com/vanichx/Libft' target="Libft">*Libft*    </a></a>[![ipetruni's 42 Libft Score](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/project/3092959)](https://github.com/JaeSeoKim/badge42)
