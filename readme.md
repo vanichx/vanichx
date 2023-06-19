@@ -2,7 +2,7 @@
 
 ## ▪️ Now I'm student at [42 Wolfsburg](https://42wolfsburg.de) 👨🏻‍💻📚 
 
-## ▪️ My Current progress at [42 Wolfsburg](https://42wolfsburg.de)
+## ▪️ My Current progress at school
 [![ipetruni's 42 stats](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/stats?cursusId=21&coalitionId=355)](https://github.com/JaeSeoKim/badge42)
 
 ## <a  target="ft_printf">*Born2BeRoot*    </a></a>[![ipetruni's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/project/3116303)](https://github.com/JaeSeoKim/badge42)
