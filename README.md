@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 Email: vanyapetrunin88@gmail.com
 
-<a href='mailto:vanyapetrunin88@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
+<a href='mailto:vanyapetrunin88@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
 </a>
 
 <a href='https://www.instagram.com/xvanichx/?hl=en' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/></a>
