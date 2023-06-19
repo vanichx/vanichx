@@ -2,6 +2,8 @@
 
 ## ▪️ I'm student at [42 Wolfsburg](https://42wolfsburg.de) 👨🏻‍💻📚 
 [![ipetruni's 42 stats](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/stats?cursusId=21&coalitionId=355)](https://github.com/JaeSeoKim/badge42)
+## ▪️ My Piscine progress
+[![ipetruni's 42 stats](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/stats?cursusId=9&coalitionId=270)](https://github.com/JaeSeoKim/badge42)
 
 ## ▪️ Github stats 📊
 
