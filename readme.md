@@ -4,6 +4,7 @@
 [![ipetruni's 42 stats](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/stats?cursusId=21&coalitionId=355)](https://github.com/JaeSeoKim/badge42)
 ## ▪️ My Current progress at [42 Wolfsburg](https://42wolfsburg.de)
 Libft
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/stats?cursusId=21&coalitionId=355" alt="ipetruni's 42 stats" /></a>
 [![ipetruni's 42 Libft Score](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/project/3092959)](https://github.com/JaeSeoKim/badge42)
 ## ▪️ My Piscine progress
 [![ipetruni's 42 stats](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/stats?cursusId=9&coalitionId=270)](https://github.com/JaeSeoKim/badge42)
