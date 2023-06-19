@@ -26,3 +26,7 @@
 
 <a href='https://t.me/vanichx' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/></a>
 </a>
+
+<a href='https://www.instagram.com/xvanichx/?hl=hi' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
+</a>
+
