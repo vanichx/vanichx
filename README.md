@@ -3,7 +3,7 @@
 ## ▪️ I'm student at [42 Wolfsburg](https://42wolfsburg.de) 👨🏻‍💻📚 
 [![ipetruni's 42 stats](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/stats?cursusId=21&coalitionId=355)](https://github.com/JaeSeoKim/badge42)
 ## ▪️ My Current progress at [42 Wolfsburg](https://42wolfsburg.de)
-[![ipetruni's 42 push_swap Score](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/project/3124422)](https://github.com/JaeSeoKim/badge42)\n
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/project/3124422" alt="ipetruni's 42 push_swap Score" /></a>
 [![ipetruni's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/project/3116303)](https://github.com/JaeSeoKim/badge42)
 [![ipetruni's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/project/3105814)](https://github.com/JaeSeoKim/badge42)
 [![ipetruni's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clj2opons005908kudaf7keqs/project/3105814)](https://github.com/JaeSeoKim/badge42)
