@@ -2,6 +2,10 @@
 
 ## ▪️ Now I'm student at [42 Wolfsburg](https://42wolfsburg.de) 👨🏻‍💻📚 
 
+## ▪️ Here is my progress at School (updated 15.01.2024) 
+![Uploading Screen Shot 2024-01-15 at 9.57.16 AM.png…]()
+
+
 ## ▪️ Github stats 📊
 
 ![vanichx GitHub stats](https://github-readme-stats.vercel.app/api?username=vanichx&show_icons=true&theme=github_dark)
