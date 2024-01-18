@@ -13,10 +13,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanichx&layout=compact&theme=github_dark)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Vanichx&label=Profile%20Visitors&color=12&icon=6&pretty=false" />
-</a>
-
 [![](https://visitcount.itsvg.in/api?id=Vanichx&label=Profile%20Visitors&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 ## ▪️ Skills
