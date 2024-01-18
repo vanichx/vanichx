@@ -14,6 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanichx&layout=compact&theme=github_dark)
 
 [![](https://visitcount.itsvg.in/api?id=vanichx&label=Profile%20Views&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=vanichx&label=Profile%20Views&color=12&icon=6&pretty=false" />
 </a>
