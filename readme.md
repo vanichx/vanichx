@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I’m vanichx 🙋🏻‍♂️ </h1>
 
-## ▪️ Now I'm student at [42 Wolfsburg](https://42wolfsburg.de) 👨🏻‍💻📚 
+## ▪️ Student of [42 Wolfsburg](https://42wolfsburg.de) 👨🏻‍💻📚 
 
 ## ▪️ Here is my progress at School (updated 15.01.2024) 
 <img width="715" alt="Screen Shot 2024-01-15 at 9 57 16 AM" src="https://github.com/vanichx/vanichx/assets/121238690/7b0e8314-3bac-4dd5-9584-55f82595120b">
