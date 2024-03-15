@@ -1,15 +1,14 @@
 <h1 align="center"> Hi, I’m vanichx 🙋🏻‍♂️ </h1>
 
-## ▪️ Student of [42 Wolfsburg](https://42wolfsburg.de) 👨🏻‍💻📚 
+# ▪️ Student of [42 Wolfsburg](https://42wolfsburg.de) 👨🏻‍💻📚 
 
 ## ▪️ Here is my progress at School (updated 15.03.2024) 
 
-![Uploading Screen Shot 2024-03-15 at 4.22.24 PM.png…]()
+<img width="686" alt="Screen Shot 2024-03-15 at 4 22 24 PM" src="https://github.com/vanichx/vanichx/assets/121238690/4302fa44-fd15-4db3-93cb-d1b9ed203d36">
 
 
 
-
-## ▪️ Github stats 📊
+###▪️ Github stats 📊
 
 ![vanichx GitHub stats](https://github-readme-stats.vercel.app/api?username=vanichx&show_icons=true&theme=github_dark)
 
@@ -17,10 +16,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=Vanichx&label=Profile%20Visitors&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
-## ▪️ Skills
+### ▪️ Skills
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="git" width="40" height="40"/><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="<GitHub" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 
-## ▪️ Want to contact me ? 
+### ▪️ Want to contact me ? 
 
 <a href='mailto:vanyapetrunin88@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
 </a>
