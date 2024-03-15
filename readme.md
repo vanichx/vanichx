@@ -2,8 +2,12 @@
 
 ## ▪️ Student of [42 Wolfsburg](https://42wolfsburg.de) 👨🏻‍💻📚 
 
-## ▪️ Here is my progress at School (updated 04.03.2024) 
-<img width="686" alt="Screen Shot 2024-03-04 at 11 27 59 AM" src="https://github.com/vanichx/vanichx/assets/121238690/293fc148-fa5e-427f-81d9-107f87743890">
+## ▪️ Here is my progress at School (updated 15.03.2024) 
+
+![Uploading Screen Shot 2024-03-15 at 4.22.24 PM.png…]()
+
+
+
 
 ## ▪️ Github stats 📊
 
