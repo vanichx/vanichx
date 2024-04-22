@@ -1,5 +1,6 @@
-<h1 align="center"> Hi, here is my contacts 🙋🏻‍♂️ </h1>
+<h2 align="left"> Hi, here is my contacts 🙋🏻‍♂️ </h2>
 
+<p align="left">
 <a href='mailto:vanyapetrunin88@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
 </a>
 
@@ -11,6 +12,7 @@
 
 <a href='https://www.linkedin.com/mwlite/in/ivan-petrunin-574425195' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 </a>
+</p>
 
 <details>
   <summary><b>Languages stats</b></summary>
