@@ -1,4 +1,4 @@
-<h2 align="left"> Hi, here is my contacts 🙋🏻‍♂️ </h2>
+### Here you can contact me
 
 <p align="left">
 <a href='mailto:vanyapetrunin88@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
