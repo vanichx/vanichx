@@ -2,6 +2,9 @@
 
 ###
 
+<details>
+  <summary><b>test</b></summary>
+  <br/>
 <div align="left">
   <a href="https://www.instagram.com/xvanichx/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -19,6 +22,7 @@
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
   </a>
 </div>
+</details>
 
 ###
 
