@@ -1,9 +1,14 @@
 <h4 align="left"> Hello 👋! My name is Ivan and I'm a student of <a href="https://42wolfsburg.de/de/?gad_source=1&gclid=Cj0KCQjwlZixBhCoARIsAIC745AqXTR9hErQN9EjqhjbE_Pp0HrKs-689f3wojJpE7N2oZicfcn37TwaAqLQEALw_wcB">42 Wolfsburg</a>, im from Ukraine and for the last 2 years im living in Wolfsburg </h4>
+
+<details>
+  <summary><b>About me</b></summary>
 I've been diving deep into C++ lately, crafting intriguing projects that challenge my skills and creativity. From algorithms to data structures, I've been exploring it all!
 
 Over the past year, my coding adventures have predominantly revolved around C programming, where I've tackled various challenges and honed my problem-solving abilities. But that's not all—I'm also venturing into the exciting realm of Swift and SwiftUI, eager to delve into the world of iOS app development.
 
 When I'm not immersed in code, you can find me exploring new technologies, brainstorming project ideas, or simply enjoying a good cup of coffee. Feel free to connect with me—I'm always up for a coding conversation or collaborating on interesting projects!
+</details>
+
 ###
 
 <details>
