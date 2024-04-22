@@ -63,7 +63,7 @@ When I'm not immersed in code, you can find me exploring new technologies, brain
 ###
 
 <details>
-  <summary><b> Languages stats b></summary>
+  <summary><b> Languages stats </summary>
   <br/>
   <picture align="left">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanichx&theme=nord_dark">
