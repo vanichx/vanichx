@@ -3,7 +3,7 @@
 ###
 
 <details>
-  <summary><b>test</b></summary>
+  <summary><b>📫 How to reach me</b></summary>
   <br/>
 <div align="left">
   <a href="https://www.instagram.com/xvanichx/" target="_blank">
