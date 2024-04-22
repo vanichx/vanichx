@@ -15,18 +15,11 @@
       <img alt="Telegram" src="https://img.shields.io/badge/telegram-eceff4.svg?&style=for-the-badge&logo=telegram">
     </picture>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/mwlite/in/ivan-petrunin-574425195" target="_blank">
+  <a href="https://www.linkedin.com/in/ivan-petrunin-574425195/" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/linkedin-2e3440.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
       <img alt="LindedIn" src="https://img.shields.io/badge/linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-    </picture>
-  </a>&nbsp;
-  <a href="https://www.hackerrank.com/rabarbrablad" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HackerRank-2e3440.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966">
-      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/HackerRank-eceff4.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966">
-      <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-eceff4.svg?&style=for-the-badge&logo=hackerrank&logoColor=2fc966">
     </picture>
   </a>&nbsp;
 </p>
