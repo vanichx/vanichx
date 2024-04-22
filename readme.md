@@ -2,16 +2,16 @@
 
 <p align="left">
 <a href='mailto:vanyapetrunin88@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
-</a>
+</a>&nbsp;
 
 <a href='https://t.me/vanichx' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/></a>
-</a>
+</a>&nbsp;
 
 <a href='https://www.instagram.com/xvanichx/?hl=en' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
-</a>
+</a>&nbsp;
 
 <a href='https://www.linkedin.com/mwlite/in/ivan-petrunin-574425195' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
-</a>
+</a>&nbsp;
 </p>
 
 <details>
