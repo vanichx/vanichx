@@ -25,8 +25,23 @@ When I'm not immersed in code, you can find me exploring new technologies, brain
   <a href="https://42born2code.slack.com/team/U057RQD6M7C" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
   </a>
+  <a href="https://wa.me/+4917641134584" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
 </div>
 </details>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanichx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanichx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
+
 
 ###
 
