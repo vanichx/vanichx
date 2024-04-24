@@ -21,7 +21,7 @@ When I'm not immersed in code, you can find me exploring new technologies, brain
   <a href="mailto:vanyapetrunin88@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ivan-petrunin-574425195/" target="_blank">
+  <a href="https://www.linkedin.com/in/ivan-petrunin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/vanichx" target="_blank">
