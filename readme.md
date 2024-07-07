@@ -56,6 +56,8 @@ When I'm not immersed in code, you can find me exploring new technologies, brain
   </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a>
+  <a href="https://www.blender.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="blender logo"  />
+  </a>
   </p>
 </details>
 
