@@ -61,22 +61,3 @@ When I'm not immersed in code, you can find me exploring new technologies, brain
   </p>
 </details>
 
-
-###
-
-<details>
-  <summary><b> Languages stats </summary>
-  <br/>
-  <picture align="left">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanichx&theme=nord_dark">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanichx&theme=nord_bright">
-    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanichx&theme=nord_dark">
-  </picture>
-  <picture align="right">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanichx&theme=nord_dark">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanichx&theme=nord_bright">
-    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanichx&theme=nord_dark">
-  </picture>
-</details>
-    
-###
