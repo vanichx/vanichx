@@ -1,4 +1,4 @@
-<h4 align="left"> Hello 👋! My name is Ivan and I'm a student of <a href="https://42wolfsburg.de/de/?gad_source=1&gclid=Cj0KCQjwlZixBhCoARIsAIC745AqXTR9hErQN9EjqhjbE_Pp0HrKs-689f3wojJpE7N2oZicfcn37TwaAqLQEALw_wcB">42 Wolfsburg</a>, im from Ukraine and for the last 2 years im living in Wolfsburg </h4>
+<h4 align="left"> Hello 👋! My name is Ivan and I'm a student of <a href="https://42wolfsburg.de/de/?gad_source=1&gclid=Cj0KCQjwlZixBhCoARIsAIC745AqXTR9hErQN9EjqhjbE_Pp0HrKs-689f3wojJpE7N2oZicfcn37TwaAqLQEALw_wcB">42 Wolfsburg</a></h4>
 
 
 <h4 align="left">About me </h4>
