@@ -3,9 +3,14 @@
 
 <h4 align="left">About me </h4>
 
-As a student of 42 Wolfsburg and currently continuing my studies there, I have honed my skills in C++, Python, and other programming languages. Over the past year, I’ve immersed myself in various coding challenges, particularly in C, where I’ve developed strong problem-solving abilities. In addition, I’ve created a WebStore application and am now expanding my expertise into Swift and SwiftUI for iOS app development.
+🎯 Software Engineering Student | 42 Wolfsburg
 
-When I’m not coding, I enjoy exploring emerging technologies, brainstorming new project ideas, or simply sipping a good cup of coffee. Always eager to connect with like-minded individuals, feel free to reach out if you’d like to collaborate on exciting projects or have a coding conversation!
+I’ve been a software engineering student at 42 Wolfsburg for 2 years, specializing in C and C++ programming while pursuing mobile app development as a passionate hobby. My projects include:
+	•	FullFit: A fitness app available on the App Store. (Swift, SwiftUI)
+	•	Custom HTTP Server: Built from scratch in C++, testable with an actual browser.(C++, Bash)
+	•	Multiplayer Online Pong Game: Currently developing this project, integrating mandatory and optional modules. (Python, Vue.js)
+
+Driven by a love for solving complex problems and creating impactful solutions, I’m always eager to learn and grow. Let’s connect!
 
 
 ###
