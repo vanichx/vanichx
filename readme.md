@@ -7,8 +7,8 @@
 
 I’ve been a software engineering student at 42 Wolfsburg for 2 years, specializing in C and C++ programming while pursuing mobile app development as a passionate hobby. My projects include:
 	<h4 align="left">•	FullFit: A fitness app available on the App Store. (Swift, SwiftUI)</h4>
-	•	Custom HTTP Server: Built from scratch in C++, testable with an actual browser.(C++, Bash)
-	•	Multiplayer Online Pong Game: Currently developing this project, integrating mandatory and optional modules. (Python, Vue.js)
+	<h4 align="left">•	Custom HTTP Server: Built from scratch in C++, testable with an actual browser.(C++, Bash)</h4>
+	<h4 align="left">•	Multiplayer Online Pong Game: Currently developing this project, integrating mandatory and optional modules. (Python, Vue.js)</h4>
 
 Driven by a love for solving complex problems and creating impactful solutions, I’m always eager to learn and grow. Let’s connect!
 
